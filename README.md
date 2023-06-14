@@ -1,6 +1,6 @@
 - Hello! I'm @SummGLW, or Wyatt W (they/he/she)
 - I'm trying to review some basic Python in order to reignight my love for programming. I'll also be taking some classes over the summer, so I'm preparing for their placement test haha
-- After that, I want to focus on web development, getting some projects/practice under my belt, teaching Scratch to some elementary kids at my library, and rediscovering my passion for programming
+- After that, I want to focus on web development, getting some projects/practice under my belt, teaching Scratch to some elementary kids at my library, navigating GitHub, and rediscovering my passion for programming
 
 - Interests (in computers): AI programming and utilization, AI art/ethics, creating video games and websites, simulating large chemistry/astronomy/population/neuro models, how computers read languages
 - Interests (outside coomputers): performing/visual/literary art, politics/philosophy, ALL things science, linguistics/language learning, helping people :)
